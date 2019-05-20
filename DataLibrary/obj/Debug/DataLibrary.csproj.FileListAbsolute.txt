@@ -1,0 +1,8 @@
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb

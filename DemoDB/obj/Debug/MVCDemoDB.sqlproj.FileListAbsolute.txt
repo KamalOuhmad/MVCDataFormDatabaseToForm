@@ -1,0 +1,5 @@
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DemoDB\bin\Debug\MVCDemoDB.dacpac
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DemoDB\bin\Debug\DemoDB.dll
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DemoDB\bin\Debug\DemoDB.pdb
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DemoDB\obj\Debug\DemoDB.dll
+C:\Users\lnuar\source\repos\MVCDataFromDatabaseToForm\DemoDB\obj\Debug\DemoDB.pdb
